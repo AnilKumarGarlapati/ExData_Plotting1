@@ -24,5 +24,5 @@ plot2<- function(){
   # Copy the plot as plot2.png
   # Close the graphic device once done
   dev.copy(png,file="plot2.png")
-  dev.off()
+  dev.off() 
 }
