@@ -21,4 +21,4 @@ plot1<- function(){
    # Close the graphic device once done
    dev.copy(png,file="plot1.png")
    dev.off()
-}
+} 
